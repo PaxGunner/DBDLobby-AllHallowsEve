@@ -8,7 +8,7 @@ UE project will possibly be released at a later date.
 
 **Credits:**
 
-**Oleg / Олег Шабунов#6272 - creating project, updating SDKs, materials & helping fix bugs/issues. (this would literally be impossible without him.)** <br>
+**Oleg / Олег Шабунов#6272 - creating template project, updating SDKs, materials & helping fix bugs/issues. (this would literally be impossible without him.)** <br>
 
 **Pax - Recreating all components/aspects of the 1.8.0 lobby 1:1 in Unreal Engine**
 
