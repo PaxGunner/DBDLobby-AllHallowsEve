@@ -6,6 +6,8 @@ V1.0 of the Halloween 2017 mod is available in the Releases tab (.pak file) <br>
 
 UE project will possibly be released at a later date.
 
+**Credits:**
+
 **Oleg / Олег Шабунов#6272 - creating project, updating SDKs, materials & helping fix bugs/issues. (this would literally be impossible without him.)** <br>
 
 **Pax - Recreating all components/aspects of the 1.8.0 lobby 1:1 in Unreal Engine**
