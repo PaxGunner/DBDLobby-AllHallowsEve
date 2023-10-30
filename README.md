@@ -4,10 +4,8 @@ Full recreation (1:1) of the Halloween 2017 Lobby in Dead by Daylight
 V1.01 of the Halloween 2017 mod is available in the Releases tab (.pak file) <br>
 2 versions are available: Shadows ENABLED and Shadows DISABLED <br>
 
-**NOTE:** you may not be able to tell because it works so well, <br>
-but this lobby is currently using 3.0.0 TallGrass vegetations & <br>
-the 3.0.0 cammpfire mesh/blueprint. I might change this in the <br> 
-future but its unlikely because it looks good and works well.
+**NOTE:** you may not be able to tell because it works so well, but this lobby is currently using 3.0.0 TallGrass vegetations & <br>
+the 3.0.0 cammpfire mesh/blueprint. I might change this in the future but its unlikely because it looks good and works well.
 
 UE project will possibly be released at a later date.
 
