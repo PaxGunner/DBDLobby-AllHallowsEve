@@ -1,4 +1,4 @@
-# DBDLobby-Halloween2017
+# DBDLobby-AllHallowsEve
 Full recreation (1:1) of the Halloween 2017 Lobby in Dead by Daylight
 
 V1.01 of the Halloween 2017 mod is available in the Releases tab (.pak file) <br>
