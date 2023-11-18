@@ -7,8 +7,6 @@ V1.01 of the Halloween 2017 mod is available in the Releases tab (.pak file) <br
 **NOTE:** you may not be able to tell because it works so well, but this lobby is currently using 3.0.0 TallGrass vegetations & <br>
 the 3.0.0 cammpfire mesh/blueprint. I might change this in the future but its unlikely because it looks good and works well.
 
-UE project will possibly be released at a later date.
-
 **Credits:**
 
 **Oleg / Олег Шабунов#6272 - creating template project, updating SDKs, materials & helping fix bugs/issues. (this would literally be impossible without him.)** <br>
